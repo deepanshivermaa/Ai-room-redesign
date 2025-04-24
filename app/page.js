@@ -492,7 +492,7 @@ export default function Home() {
             {
               title: "Step 2: Choose Your Style",
               desc: "Browse through a variety of curated design themes such as Modern, Bohemian, Scandinavian, and more. Once you pick your preferred style, our AI gets to work blending your room’s layout with your chosen vibe seamlessly.",
-              img: "/Design.jpg",
+              img: "/design.jpg",
               flip: true,
             },
             {
